@@ -1,6 +1,6 @@
 ## cross finance seçilenler için repo
 
-> Yeni müsait olabildim paylaşabilmek için - ben de sizin gibi harcıyomm
+> Yeni müsait olabildim paylaşabilmek için - ben de sizin gibi harcıyomm test
 
 > Repo sadece seçilenler içindir.
 
